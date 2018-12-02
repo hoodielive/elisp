@@ -7,7 +7,6 @@
     (print pizza)))
 
 ;; loop through the list and if you find even numbers then print it
-
 (dolist (pizza my-list)
   (when (= (mod pizza 2) 0)
     (message (number-to-string pizza))))
