@@ -1,6 +1,7 @@
 #+TITLE: Elisp Studies
 #+AUTHOR: Lucid Developer 
 
-* Fundamentals 
-** Basic Arithmetic 
-** Variables
+** Fundamentals 
+*** Basic Arithmetic 
+*** Variables
+
